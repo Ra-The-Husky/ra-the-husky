@@ -1,6 +1,11 @@
 ### Wassup! I'm Ra 👋
- 
- <img align="right" alt="8-Bit BMO Dancing Gif" src="https://i.gifer.com/Paz.gif" width="250" height="250" />
+
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=ra-the-husky&style=flat-square&color=blue" alt=""/>  
+</div>
+
+
+<img aling="right" alt="8-Bit BMO Dancing Gif" src="https://i.gifer.com/Paz.gif" width="250" height="250" />
 
 ## I'm a Software Engineer, Content Creator, and soon...a Game Developer
 ### A Little About Me
