@@ -4,10 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=ra-the-husky&style=flat-square&color=blue" alt=""/>  
 </div>
 
+<img alt="8-Bit BMO Dancing Gif" src="https://i.gifer.com/Paz.gif" width="250" height="250" />
 
-<img aling="right" alt="8-Bit BMO Dancing Gif" src="https://i.gifer.com/Paz.gif" width="250" height="250" />
-
-## I'm a Software Engineer, Content Creator, and soon...a Game Developer
+## Software Engineer Today, Game Developer of Tomorrow
 ### A Little About Me
 
 - 💪 I’m currently working on GamerFund
