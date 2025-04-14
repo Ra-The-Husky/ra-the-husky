@@ -20,11 +20,6 @@
 ### Languages and Tools I know
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,css,discord,docker,flask,git,github,godot,js,nodejs,npm,postgres,postman,powershell,py,sqlite,sequelize,ubuntu,vite,vscode,&theme=dark&perline=5)](https://skillicons.dev)
 
-### Want To Connect?
-
-[<img align="left" alt="Ra | LinkedIn" width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-
 <details>
  <summary>🧮: Github Stats</summary>
    <img align="left" alt="Ra's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ra-the-husky&show_icons=true&hide_border=true" />
@@ -36,6 +31,4 @@
 </details>
 
 
-
-[linkedin]: https://www.linkedin.com/in/rasheed-lindsey-4a67a95a
 <!-- [portfolio]: to be added soon -->
