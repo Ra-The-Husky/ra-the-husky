@@ -6,12 +6,12 @@
 
 <img alt="8-Bit BMO Dancing Gif" src="https://i.gifer.com/Paz.gif" width="250" height="250" />
 
-## Software Engineer Today, Game Developer of Tomorrow
+## The Game Dev of Tomorrow World
 ### A Little About Me
 
-- 💪 I’m currently working on GamerFund
+- 💪 I’m currently working on an unnamed text-based war game
 - 🤯 I’m currently learning Godot game engine, Spanish, and Japanese
-- 👯 I’m looking to collaborate on anything especially if it's game development 
+- 👯 I’m looking to collaborate on any game related project 
 - 😵‍💫 I’m looking for help with implementing more third party APIs and stylish CSS for my apps
 - 🤓 Ask me about game development processes or what games I'm playing currently
 - 😏 Pronouns: They don't matter, tbh. Call me whatever
