@@ -5,8 +5,17 @@
 ### A Little About Me
 
 I’m currently working on myself and my ambitions
+I'm learning a bunch of new things for personal projects I have in mind for the future
+These include, but not limited to:
 
-### Languages and Tools I know
+- 2D Game Development in Godot
+- 3D Game Development in Godot
+- Music Composition and Production
+- Video Production and Editing
+- Python programming language
+- and much more...
+
+### Languages and Tools I know so far...
 [![My Skills](https://skillicons.dev/icons?i=git,github,godot,py,vscode,&theme=dark&perline=5)](https://skillicons.dev)
 
 <!-- <details>
