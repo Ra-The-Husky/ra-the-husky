@@ -4,7 +4,8 @@
 
 ### A Little About Me
 
-I’m currently working on myself and my ambitions
+I’m currently working on myself for my ambitions.
+
 I'm learning a bunch of new things for personal projects I have in mind for the future
 These include, but not limited to:
 
